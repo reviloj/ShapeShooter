@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(397): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(465): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(472): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(482): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(542): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(565): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(591): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(616): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(728): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(729): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(781): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(840): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(847): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(1302): warning C4018: '<': signed/unsigned mismatch
+c:\users\jango\documents\visual studio 2013\projects\shapeshooter\shapeshooter\source.cpp(1427): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  shapeShooter.vcxproj -> C:\Users\jango\Documents\visual studio 2013\Projects\shapeShooter\Debug\shapeShooter.exe
